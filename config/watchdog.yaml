@@ -1,0 +1,7 @@
+topic: 'voltage_monitor/voltage'
+sample_size: 25
+warn_thresh: 13.0
+warn_offset: 20
+crit_thresh: 12.5
+crit_offset: 20
+warn_rate: 10

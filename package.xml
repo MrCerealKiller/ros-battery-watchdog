@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>battery_watchdog</name>
+  <version>1.0.0</version>
+  <description>
+    ROS Battery Watchdog Package
+    --------------------
+    Monitors system hardware to prevent catastrophic failure
+  </description>
+
+  <maintainer email="jgomallette@gmail.com">Jeremy Mallette</maintainer>
+
+  <license>LGPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>rospy</depend>
+  <depend>rosserial_arduino</depend>
+  <depend>rosserial_client</depend>
+  <depend>std_msgs</depend>
+
+  <exec_depend>rosserial_python</exec_depend>
+
+</package>

@@ -1,0 +1,13 @@
+#ifndef _CALIB_H_
+#define _CALIB_H_
+
+/**
+ * FILE AUTOMATICALLY GENERATED ON BUILD
+ * STORES THE CALIBRATION RESULTS
+ */
+
+#define BIAS (-0.0842)
+#define SCALE (1.02)
+
+#endif
+
